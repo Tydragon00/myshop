@@ -6,7 +6,7 @@ services:
     container_name: db
     environment:
       MYSQL_DATABASE: prestashop
-      MYSQL_ROOT_PASSWORD: prestashop
+      MYSQL_ROOT_PASSWORD: i5PeR%7u&*w^
     ports:
       - "3306:3306"
     volumes:
